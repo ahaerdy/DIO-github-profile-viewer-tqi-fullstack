@@ -49,4 +49,6 @@ O estudo detalhado do projeto, com análise de cada componente e do estado globa
 ## ✅ Conclusão
 Este projeto cumpre seu objetivo de forma simples e clara: consumir a API do GitHub e apresentar informações básicas de perfil e repositórios. A arquitetura está organizada e pronta para evoluir com novas funcionalidades caso seja necessário.
 
+## Referências:
 
+- [Repositório de Estudos – Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
